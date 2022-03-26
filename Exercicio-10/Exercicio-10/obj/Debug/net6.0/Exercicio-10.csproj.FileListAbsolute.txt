@@ -1,0 +1,15 @@
+/home/abdon/Documentos/Faculdade/Programação IV/Lista-Exercicios-3/Exercicio-10/Exercicio-10/obj/Debug/net6.0/Exercicio-10.csproj.AssemblyReference.cache
+/home/abdon/Documentos/Faculdade/Programação IV/Lista-Exercicios-3/Exercicio-10/Exercicio-10/obj/Debug/net6.0/Exercicio-10.GeneratedMSBuildEditorConfig.editorconfig
+/home/abdon/Documentos/Faculdade/Programação IV/Lista-Exercicios-3/Exercicio-10/Exercicio-10/obj/Debug/net6.0/Exercicio-10.AssemblyInfoInputs.cache
+/home/abdon/Documentos/Faculdade/Programação IV/Lista-Exercicios-3/Exercicio-10/Exercicio-10/obj/Debug/net6.0/Exercicio-10.AssemblyInfo.cs
+/home/abdon/Documentos/Faculdade/Programação IV/Lista-Exercicios-3/Exercicio-10/Exercicio-10/obj/Debug/net6.0/Exercicio-10.csproj.CoreCompileInputs.cache
+/home/abdon/Documentos/Faculdade/Programação IV/Lista-Exercicios-3/Exercicio-10/Exercicio-10/bin/Debug/net6.0/Exercicio-10
+/home/abdon/Documentos/Faculdade/Programação IV/Lista-Exercicios-3/Exercicio-10/Exercicio-10/bin/Debug/net6.0/Exercicio-10.deps.json
+/home/abdon/Documentos/Faculdade/Programação IV/Lista-Exercicios-3/Exercicio-10/Exercicio-10/bin/Debug/net6.0/Exercicio-10.runtimeconfig.json
+/home/abdon/Documentos/Faculdade/Programação IV/Lista-Exercicios-3/Exercicio-10/Exercicio-10/bin/Debug/net6.0/Exercicio-10.dll
+/home/abdon/Documentos/Faculdade/Programação IV/Lista-Exercicios-3/Exercicio-10/Exercicio-10/bin/Debug/net6.0/ref/Exercicio-10.dll
+/home/abdon/Documentos/Faculdade/Programação IV/Lista-Exercicios-3/Exercicio-10/Exercicio-10/bin/Debug/net6.0/Exercicio-10.pdb
+/home/abdon/Documentos/Faculdade/Programação IV/Lista-Exercicios-3/Exercicio-10/Exercicio-10/obj/Debug/net6.0/Exercicio-10.dll
+/home/abdon/Documentos/Faculdade/Programação IV/Lista-Exercicios-3/Exercicio-10/Exercicio-10/obj/Debug/net6.0/ref/Exercicio-10.dll
+/home/abdon/Documentos/Faculdade/Programação IV/Lista-Exercicios-3/Exercicio-10/Exercicio-10/obj/Debug/net6.0/Exercicio-10.pdb
+/home/abdon/Documentos/Faculdade/Programação IV/Lista-Exercicios-3/Exercicio-10/Exercicio-10/obj/Debug/net6.0/Exercicio-10.genruntimeconfig.cache

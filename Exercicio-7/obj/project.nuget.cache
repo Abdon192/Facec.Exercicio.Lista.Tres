@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oe+m5mmx/5sag5W8e908iZA2MQO68hcVIxUs68AbZTrIVUw60ZC9HQcou/3myktaAPiFS5z5olMIlq/5dC/Gcw==",
+  "success": true,
+  "projectFilePath": "/home/abdon/Documentos/Faculdade/Programação IV/Lista-Exercicios-3/Exercicio-7/Exercicio-7.csproj",
+  "expectedPackageFiles": [
+    "/home/abdon/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
